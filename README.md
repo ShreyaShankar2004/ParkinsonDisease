@@ -60,10 +60,11 @@ The models and approaches are built based on literature and research from variou
 - Optimize hyperparameters for better generalization.
 - Deploy the best-performing model as a lightweight web or mobile application for real-world PD screening.
 
-## Acknowledgment
+## Research paper link
+https://www.imanagerpublications.com/article/21905/
 
-Special thanks to KJ Somaiya College of Engineering and all participants who contributed data for this study.
+
 
 ---
 
-# 🚀 Let's detect Parkinson’s earlier and more accurately with AI!
+# Let's detect Parkinson’s earlier and more accurately with AI!
